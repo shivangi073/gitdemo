@@ -1,0 +1,11 @@
+print("Shivangi Mishra")
+print("Shivangi Mishra")
+print("Shivangi Mishra")
+print("Shivangi Mishra")
+print("Shivangi Mishra")
+
+print("My college is IGDTUW")
+print("My college is IGDTUW")
+print("My college is IGDTUW")
+print("My college is IGDTUW")
+print("My college is IGDTUW")
